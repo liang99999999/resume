@@ -1,0 +1,104 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  padding: 0 0px;
+  background-color: white;
+}
+
+.area1 {
+  width: 100%;
+  height: 330px;
+  background-color: blue;
+}
+.area1 h1 {
+  text-align: center;
+  color: white;
+}
+.area1 p {
+  text-align: center;
+  color: white;
+}
+.area1 .img1 {
+  width: 150px;
+  height: 150px;
+  margin-top: 50px;
+  margin-left: 45%;
+}
+
+.area2 {
+  padding: 0 50px;
+}
+.area2 h2 {
+  margin: 40px 50px;
+  font-size: 30px;
+}
+.area2 .p2 {
+  margin: -24px 130px;
+  color: rgb(80, 86, 211);
+  font-size: 20px;
+}
+.area2 .h2-1 {
+  margin: 40px 50px;
+  font-size: 30px;
+}
+.area2 .p2-1 {
+  margin: -24px 70px;
+  color: rgb(80, 86, 211);
+  font-size: 20px;
+}
+.area2 .line {
+  width: 100%;
+  height: 2px;
+  background-color: black;
+}
+
+.area3 {
+  width: 100%;
+  height: 600px;
+  background-color: blue;
+  padding: 10px 0;
+}
+.area3 h3 {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+.area3 .p3 {
+  color: white;
+  font-size: 10px;
+}
+.area3 .line3 {
+  margin-left: 50px;
+  width: 1365px;
+  height: 2px;
+  background-color: white;
+}
+
+.area4 {
+  padding: 0 50px;
+}
+.area4 h4 {
+  margin: 40px 50px;
+  font-size: 30px;
+}
+.area4 .p4 {
+  margin: -24px 130px;
+  color: rgb(80, 86, 211);
+  font-size: 20px;
+}
+.area4 .line4 {
+  width: 100%;
+  height: 2px;
+  background-color: black;
+}
+.area4 ul {
+  font-size: 30px;
+}
+.area4 .p4-1 {
+  margin: 5px 0 15px 0;
+  color: rgb(80, 86, 211);
+  font-size: 20px;
+}/*# sourceMappingURL=me.css.map */
